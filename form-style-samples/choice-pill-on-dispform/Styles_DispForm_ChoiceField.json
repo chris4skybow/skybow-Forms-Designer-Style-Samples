@@ -1,0 +1,9 @@
+{
+    "Field": [
+        {
+            "Name": "Style for PriorityLevel: Low",
+            "Rule": "=[[PriorityLevel]]==\"Low\"",
+            "CSS": ".sb-field-value {\n  color: #FFFFFF;\n  background-color: #D13438;\n  border-radius: 16px;\n  padding: 1px 8px 2px 8px;\n  display: inline;\n}\ndiv.sb-field > div {\n  margin-top: 6px;\n}"
+        }
+    ]
+}
