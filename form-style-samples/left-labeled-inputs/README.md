@@ -7,4 +7,4 @@ Use the import functionality to import the provided styles to your forms: https:
 ### EditForm
 ![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/form-style-samples/left-labeled-inputs/assets/EditForm_left-labeled-inputs.png?raw=true)
 ### NewForm
-![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/form-style-samples/left-labeled-inputs/assets/EditForm_left-labeled-inputs.png?raw=true)
+![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/form-style-samples/left-labeled-inputs/assets/NewForm_left-labeled-inputs.png?raw=true)

@@ -1,0 +1,24 @@
+{
+	"TabItem": [
+		{
+			"Name": "Grey tabs and underlined active tab",
+			"CSS": ".ant-tabs-bar .sb-tab-item-active {\n  color: \"[theme: themePrimary]\";\n  border-bottom-width: 2px !important;\n  border-bottom-style: solid;\n  border-bottom-color: \"[theme: themePrimary]\" !important;\n  border-color: rgba(232, 232, 232, 0);\n  padding-bottom: 3px !important;\n}\n\n.ant-tabs-bar .sb-tab-item-active label {\n  font-weight: bold;\n  color: \"[theme: themePrimary]\" !important;\n}\n\n.sb-tab-item {\n  border-width: 0px;\n  background-color: rgba(250, 250, 250, 0);\n}\n\n.sb-tab-item label:hover {\n  text-shadow:0px 0px 1px \"[theme: themePrimary]\";\n  }\n\n.ant-tabs-bar {\n  background-color: \"[theme: neutralLighterAlt]\";\n}"
+		},
+		{
+			"Name": "Left labeled field values (Tabs style)",
+			"CSS": ".sb-tabs-cont{\n  clear:both;\n}"
+		}
+	],
+	"Field": [
+		{
+			"Name": "Left labeled field values",
+			"CSS": ".sb-field input::placeholder {\n  color: rgba(96, 94, 92, 0);\n}\n\n.sb-field-input:hover:not(:focus):not(.is-open) {\n  border-color: \"[theme: themePrimary]\";\n}\n\n.sb-field-label {\n  clear: both;\n  float: left;\n  width: 30%;\n}\n\n.sb-field-label + div {\n  float: left;\n  width: 70%;\n}\n\n.sb-field {\n  clear: both;\n}\n\n.sb-field-desc {\n  padding-left: 30%;\n}"
+		}
+	],
+	"List": [
+		{
+			"Name": "Left labeled field values (Lists&Libraries style)",
+			"CSS": ".sb-list {\n  clear:both;\n}"
+		}
+	]
+}
