@@ -1,0 +1,8 @@
+{
+    "CommandButton": [
+        {
+            "Name": "Button light",
+            "CSS": ".sb-commandbar-button {\n  border-width: 4px;\n  border-style: solid;\n  background-color: \"[theme: themeLighter]\";\n  border-color: \"[theme: white]\";\n  border-radius: 8px;\n  color: \"[theme: themePrimary]\";\n}\n\n.sb-commandbar-button.is-disabled {\n  border-color: \"[theme: white]\";\n}\n\n.sb-commandbar-button:hover:not(:active) {\n  background-color: \"[theme: themeLighterAlt]\";\n}\n\n.sb-commandbar-icon {\n  color: \"[theme: themeDarker]\";\n}"
+        }
+    ]
+}

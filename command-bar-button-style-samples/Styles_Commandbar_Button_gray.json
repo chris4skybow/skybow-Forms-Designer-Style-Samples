@@ -1,0 +1,8 @@
+{
+    "CommandButton": [
+        {
+            "Name": "Button grey",
+            "CSS": ".sb-commandbar-button {\n  border-style: solid;\n  border-radius: 8px;\n  border-color: \"[theme: white]\";\n  background-color: \"[theme: neutralLighterAlt]\";\n  border-width: 4px;\n  color: \"[theme: themePrimary]\";\n}\n\n.sb-commandbar-button:hover:not(:active) {\n  background-color: \"[theme: buttonBackgroundHovered]\";\n  color: \"[theme: themePrimary]\";\n}\n\n.sb-commandbar-button:active {\n  background-color: \"[theme: buttonBackgroundPressed]\";\n}"
+        }
+    ]
+}

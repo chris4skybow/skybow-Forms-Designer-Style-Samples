@@ -1,0 +1,8 @@
+{
+    "CommandButton": [
+        {
+            "Name": "Button dark",
+            "CSS": ".sb-commandbar-icon {\n  color: \"[theme: white]\";\n}\n\n.sb-commandbar-button {\n  color: \"[theme: white]\";\n  border-width: 4px;\n  border-style: solid;\n  background-color: \"[theme: themeDarker]\";\n  border-color: \"[theme: white]\";\n  border-radius: 8px;\n}\n\n.sb-commandbar-button:active {\n  color: \"[theme: primaryButtonTextPressed]\";\n  border-color: \"[theme: white]\";\n  background-color: \"[theme: primaryButtonBackgroundPressed]\";\n}\n\n.sb-commandbar-button:hover:not(:active) {\n  color: \"[theme: primaryButtonText]\";\n  border-color: \"[theme: white]\";\n  background-color: \"[theme: primaryButtonBackgroundHovered]\";\n}\n\n.sb-commandbar-button.is-disabled {\n  border-color: \"[theme: white]\";\n}"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Field": [
+        {
+            "Name": "Changed Style",
+            "CSS": ".sb-field-changed .sb-field-input {\n  background-color: rgba(73, 130, 5, 0.38);\n  border-color: #ff9900;\n}\n\n.sb-field-changed .sb-field-label {\n  color: #498206;\n}\n\n.sb-field-changed .sb-field-inner input::placeholder {\n  color: \"[theme: neutralPrimary]\";\n}"
+        }
+    ]
+}
