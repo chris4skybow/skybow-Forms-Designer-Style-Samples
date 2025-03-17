@@ -5,4 +5,4 @@ Adjust the Rule expression to your choice's column name and value to apply style
 
 ## Result
 ### DispForm
-![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/form-style-samples/choice-pill-on-dispform/assets/DispForm_choice-pill-on-dispform.png?raw=true)
+![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/field-style-samples/choice-pill-on-dispform/assets/DispForm_choice-pill-on-dispform.png?raw=true)

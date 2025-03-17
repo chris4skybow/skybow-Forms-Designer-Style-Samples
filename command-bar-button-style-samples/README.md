@@ -3,4 +3,5 @@ Use the import functionality to import the provided styles to your forms: https:
 
 ## Result
 ### Buttons on DispForm
+Styled as "dark" (position 3 from the left), "light" (at position 4) and "gray" (at position 5)
 ![alt text](https://github.com/chris4skybow/skybow-Forms-Designer-Style-Samples/blob/main/command-bar-button-style-samples/assets/commandbar_button_styles_gray_and_light.png?raw=true)
